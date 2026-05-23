@@ -41,3 +41,7 @@ Thumbs.db
 
 # Claude Code internal files
 .claude/
+
+# API keys — never commit these
+*.xcconfig
+Secrets.xcconfig
